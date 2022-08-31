@@ -160,6 +160,7 @@ export const ListCity = styled.div`
 
 export const CityItem = styled.div`
 	display: flex;
+	cursor: pointer;
 	margin: 0 0.5rem;
 	margin-bottom: 2rem;
 	justify-content: space-between;
